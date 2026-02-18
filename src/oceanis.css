@@ -26,7 +26,13 @@ body {
   letter-spacing: 1px;
   color: var(--accent);
   margin-bottom: 8px;
+  border-bottom: 3px solid var(--accent);
+  display: inline-block;
+  padding-bottom: 6px;
+  text-transform: uppercase;
 }
+
+
 
 .header p {
   color: var(--muted);
